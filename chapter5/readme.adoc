@@ -1,4 +1,4 @@
-= Chapter 5
+= Chapter 5 - Stateful Containers
 
 == 5.1 Couchbase cluster using services
 
